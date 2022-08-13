@@ -1,0 +1,6 @@
+{"id": 1, "name": "Lenovo Laptop", "img": "laptop.png", "price": "1250", "count": 10}
+{"id": 2, "name": "Dell Laptop", "img": "laptop2.jpg", "price": "1150", "count": 9}
+{"id": 3, "name": "MSI Laptop", "img": "laptop3.jpg", "price": "1800", "count": 10}
+{"id": 4, "name": "Apple Laptop", "img": "laptop4.jpg", "price": "4500", "count": 10}
+{"id": 5, "name": "Acer Laptop", "img": "laptop5.png", "price": "2199", "count": 10}
+{"id": 6, "name": "HP Laptop", "img": "laptop6.jpg", "price": "1699", "count": 10}
